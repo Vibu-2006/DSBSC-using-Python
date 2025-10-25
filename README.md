@@ -23,18 +23,18 @@ To implement and analyze DSBSC using Python's NumPy and Matplotlib libraries.
 
 ## Program
 
-<img width="842" height="567" alt="image" src="https://github.com/user-attachments/assets/bbcf936d-0836-4155-bfc2-89b6e6e5271c" />
+<img width="1180" height="498" alt="Screenshot 2025-10-25 230725" src="https://github.com/user-attachments/assets/26fd0f04-f601-4f5d-b706-798b1ab594a5" />
 
 
 ## Output Graph
 
-<img width="554" height="413" alt="image" src="https://github.com/user-attachments/assets/fb7d05af-2822-4039-988c-576512f036ad" />
+<img width="825" height="531" alt="Screenshot 2025-10-25 230737" src="https://github.com/user-attachments/assets/58fe40da-2c8b-41a7-b01e-bd0c6273f638" />
 
 
 
 ## Tablular Column
 
-![WhatsApp Image 2025-10-18 at 13 16 07_a7871047](https://github.com/user-attachments/assets/2ec412dc-b746-433e-9327-b6af0d48fbdc)
+![WhatsApp Image 2025-10-25 at 22 57 54_ffa78602](https://github.com/user-attachments/assets/54d13fee-66de-4e9a-81a5-c230a6407c61)
 
 
 ## Result
